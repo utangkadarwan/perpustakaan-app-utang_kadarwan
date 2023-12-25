@@ -8,3 +8,4 @@ class BukuController extends Controller
 {
     //
 }
+ 
